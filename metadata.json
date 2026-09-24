@@ -1,0 +1,6 @@
+{
+  "name": "LA BEBE SMARTCARE",
+  "description": "AI-powered childcare management and operations platform for La Bebe Creche & Aftercare, Abuja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
